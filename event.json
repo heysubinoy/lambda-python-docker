@@ -1,0 +1,5 @@
+{
+  "bucket_name": "final-cog",
+  "input_s3_key": "test_cog.tif",
+  "output_s3_key": "test_cog_COG11.tif"
+}
